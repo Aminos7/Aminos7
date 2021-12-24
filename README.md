@@ -19,9 +19,7 @@
 
 - 📄 Know about my experiences through LinkedIn **https://www.linkedin.com/in/amine-snoussi/**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
