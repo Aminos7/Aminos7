@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amine SNOUSSI</h1>
-<h3 align="center">I'm a Data Scientist, Data Analyst, and a Video Editor !!</h3>
+<h3 align="center">I'm a Data Engineer and a Computer Vision enthousiaste !!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminos7&label=Profile%20views&color=0e75b6&style=flat" alt="aminos7" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python and Machine Learning**
 
-- 🌱 I’m currently learning **Computer Vision & NLP**
+- 🌱 I’m currently a **Junior Data Engineer Consultant @VISEO**
 
 - ⚡ Fun fact [I love gaming / football](I love gaming / football)
 
