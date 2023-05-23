@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminos7&label=Profile%20views&color=0e75b6&style=flat" alt="aminos7" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/aminesn05955325" target="blank"><img src="https://img.shields.io/twitter/follow/aminesn05955325?logo=twitter&style=for-the-badge" alt="aminesn05955325" /></a> </p>
-
 - 💬 Ask me about **Python and Machine Learning**
 
 - 🌱 I’m currently a **Junior Data Engineer Consultant @VISEO**
