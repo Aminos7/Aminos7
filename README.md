@@ -4,11 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminos7&label=Profile%20views&color=0e75b6&style=flat" alt="aminos7" /> </p>
 
 
-- 💬 Ask me about **Anything related to AI**
+- 💬 Ask me about **Anything Related to AI**
 
 - 🌱 I’m currently a **Junior Data Engineer Consultant @VISEO**
-
-- ⚡ Fun fact I love gaming & football
 
 - 📫 How to reach me **aminesnoussi313@gmail.com**
 
