@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently a **Junior Data Engineer Consultant @VISEO**
 
-- ⚡ Fun fact [I love gaming / football](I love gaming / football)
+- ⚡ Fun fact I love gaming & football
 
 - 📫 How to reach me **aminesnoussi313@gmail.com**
 
